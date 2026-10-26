@@ -23,4 +23,4 @@ Aturan:
 Catatan instruktur:
 - Setiap tim sebaiknya memulai dari ~/treasure_hunt.
 - Struktur folder dibuat sama untuk semua tim.
-- Folder sengaja memakai nama yang umum; peserta perlu membaca petunjuk.
+- Folder sengaja memakai nama yang umum; peserta perlu membaca petunjuk. 
