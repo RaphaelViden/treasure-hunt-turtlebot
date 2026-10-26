@@ -1,0 +1,59 @@
+*** TREASURE DITEMUKAN - RONDE 2 ***
+====================================
+
+KODE MISI: BURGER-27
+
+Di folder ini juga tersimpan PECAHAN POLA YANG TERAKHIR.
+Jalankan ls, lalu catat namanya sebagai pecahan kelima.
+
+
+SEKARANG BAGIAN SERUNYA
+-----------------------
+Lima pecahan sudah lengkap. Susun sesuai urutan penemuan kalian,
+lalu uji dulu dengan mode simulasi dari folder utama misi:
+
+  cd ~/treasure_hunt_round2
+  python3 jalankan_pola.py PECAHAN1 PECAHAN2 PECAHAN3 PECAHAN4 PECAHAN5 --simulasi
+
+Ganti PECAHAN1..PECAHAN5 dengan nama pecahan kalian, TANPA tulisan
+"pecahan_" dan tanpa ".py". Contoh penulisan (ini bukan jawabannya):
+
+  python3 jalankan_pola.py KILAT SENJA RIMBA GUNTUR OMBAK --simulasi
+
+
+CARA TAHU URUTAN KALIAN BENAR
+-----------------------------
+Setiap pecahan menyimpan satu KATA KUNCI. Kalau urutannya benar,
+kata-kata itu akan tersusun menjadi kalimat berikut:
+
+      "RODA BERPUTAR POLA RUMAH TERBENTUK"
+
+Program akan memberi tahu sendiri: URUTAN BENAR atau URUTAN BELUM BENAR.
+
+Dan kalau benar, ada dua tanda lain yang bisa kalian lihat di simulasi:
+  1. Bentuk jejaknya jelas - sebuah RUMAH (kotak dengan atap segitiga)
+  2. Jarak titik akhir ke titik awal kira-kira 0 cm, robot pulang ke start
+     setelah berputar total tepat 360 derajat
+
+
+LALU JALANKAN DI ROBOT SUNGGUHAN
+--------------------------------
+1. Baca dulu: documentation/../operations/checklists/preflight.txt
+2. Letakkan robot di titik START, tandai dengan lakban
+3. Hidupkan robot dan bringup-nya, lalu di laptop:
+
+     python3 jalankan_pola.py PECAHAN1 PECAHAN2 PECAHAN3 PECAHAN4 PECAHAN5
+
+4. Rekam jejaknya: pasang spidol di belakang robot di atas kertas karton,
+   atau rekam video dari atas, atau tandai tiap sudut dengan lakban.
+5. Tunjukkan hasil rekaman jejak kepada instruktur.
+
+
+TUGAS LAPORAN TIM
+-----------------
+1. Tulis urutan kelima pecahan dan kalimat kuncinya.
+2. Jelaskan fungsi pwd, ls, cd, dan cat - masing-masing satu kalimat.
+3. Jelaskan kenapa pola tidak terbentuk kalau urutannya ditukar,
+   padahal total jarak dan total putarannya tetap sama.
+4. Buka salah satu file pecahan dengan cat. Tunjukkan di baris mana
+   jarak maju dan sudut putarnya ditulis.

@@ -1,0 +1,10 @@
+CHECKLIST SEBELUM ROBOT DIJALANKAN
+==================================
+[ ] Baterai TurtleBot3 di atas 11.1 V
+[ ] Kabel USB / OpenCR terpasang rapat
+[ ] Lantai bersih, ruang kosong minimal 2 x 2 meter
+[ ] Tidak ada kaki meja atau kabel di jalur robot
+[ ] Satu anggota tim siap menekan Ctrl+C
+[ ] Robot diletakkan di titik START, dan titik itu ditandai lakban
+
+File ini hanya checklist. Tidak ada petunjuk harta karun di sini.

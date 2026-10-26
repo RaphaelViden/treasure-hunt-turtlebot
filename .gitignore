@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+
+# hasil sementara mode simulasi siswa
+siswa/treasure_hunt_round2/jejak_*.svg
+
+# rekaman tiap tim saat acara; contoh_* tetap di-track
+mentor/rekaman/*
+!mentor/rekaman/contoh_*

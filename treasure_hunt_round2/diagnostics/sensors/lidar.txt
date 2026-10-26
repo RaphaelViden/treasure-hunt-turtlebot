@@ -1,4 +1,0 @@
-Laporan LiDAR:
-Sensor siap digunakan.
-Laporan ini tidak memuat tujuan akhir.
-Periksa folder diagnostics yang lain.

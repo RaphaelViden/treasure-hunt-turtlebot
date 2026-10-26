@@ -1,4 +1,0 @@
-Status telemetri:
-Sinyal komunikasi normal.
-Petunjuk 3:
-Periksa folder diagnostics untuk mengetahui ke mana harus pergi berikutnya.

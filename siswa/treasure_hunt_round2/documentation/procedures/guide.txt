@@ -1,0 +1,11 @@
+PANDUAN PROSEDUR
+================
+Kalian hampir selesai.
+
+Prosedur penutupan misi disimpan di subfolder yang artinya "penyelesaian".
+Di dalamnya ada file misi terakhir DAN pecahan pola yang kelima.
+
+  ls
+  cd completion
+  ls
+  cat treasure.txt

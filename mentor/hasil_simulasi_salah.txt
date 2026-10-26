@@ -1,0 +1,58 @@
+HASIL SIMULASI - CONTOH URUTAN SALAH
+====================================
+perintah: python3 jalankan_pola.py KILAT RIMBA GUNTUR OMBAK SENJA --simulasi
+
+
+=== POLA YANG KAMU SUSUN ===
+  1. KILAT    [sisi miring kanan]  kata: POLA
+  2. RIMBA    [garis dasar]  kata: RODA
+  3. GUNTUR   [sisi kiri]  kata: TERBENTUK
+  4. OMBAK    [sisi kanan]  kata: BERPUTAR
+  5. SENJA    [sisi miring kiri]  kata: RUMAH
+
+  Kalimat kunci dari urutanmu: "POLA RODA TERBENTUK BERPUTAR RUMAH"
+  STATUS: URUTAN BELUM BENAR. Jejak robot tidak akan membentuk pola.
+          Periksa lagi catatan urutan penemuan pecahanmu.
+
+--- RENCANA GERAK (mode simulasi, robot tidak bergerak) ---
+  1. KILAT    maju 0.85 m (4.10 putaran roda), putar 90 derajat ke kiri
+  2. RIMBA    maju 1.20 m (5.79 putaran roda), putar 90 derajat ke kiri
+  3. GUNTUR   maju 0.80 m (3.86 putaran roda), putar 90 derajat ke kiri
+  4. OMBAK    maju 0.80 m (3.86 putaran roda), putar 45 derajat ke kiri
+  5. SENJA    maju 0.85 m (4.10 putaran roda), putar 45 derajat ke kiri
+
+  Total jarak  : 4.50 m (21.7 putaran roda)
+  Total putaran: 360 derajat
+  Jarak titik akhir ke titik awal: 68.1 cm
+
+--- JEJAK YANG AKAN TERBENTUK ---
++----------------------------------------------------------------+
+|                  3***************************2                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  *                           *                 |
+|                  4                           *                 |
+|                  ***                         *                 |
+|                    ***                       *                 |
+|                      ***                     *                 |
+|                        ***                   *                 |
+|                          ***                 *                 |
+|                            ***               *                 |
+|                S*****************************1                 |
+|                                ***                             |
+|                                  ***                           |
+|                                    ***                         |
+|                                      *5                        |
++----------------------------------------------------------------+
+
+  Gambar jejak disimpan di: jejak_percobaan.svg

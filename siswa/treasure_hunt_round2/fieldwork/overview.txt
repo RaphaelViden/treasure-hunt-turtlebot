@@ -1,0 +1,10 @@
+CATATAN LAPANGAN
+================
+Arah kalian sudah benar, tapi pecahan tidak diletakkan di folder ini.
+
+Teknisi kami biasa menyimpan datanya di folder yang berhubungan dengan
+PENGAMATAN. Masuk ke sana, lalu baca catatannya.
+
+  ls
+  cd observations
+  ls

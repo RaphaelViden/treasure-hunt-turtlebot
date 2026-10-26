@@ -1,0 +1,18 @@
+CATATAN PENGAMATAN
+==================
+Petunjuk 2.
+
+Di folder observations ini ada satu PECAHAN POLA lagi.
+Jalankan ls dan temukan file yang namanya dimulai dengan pecahan_
+
+  >> Catat namanya sebagai pecahan berikutnya. <<
+
+Di sini juga ada subfolder archive. Isinya log lama, bukan pecahan.
+Boleh dilihat, tapi jangan terkecoh.
+
+Petunjuk selanjutnya ada di folder bernama telemetry, satu tingkat
+di bawah folder utama misi.
+
+  cd ../..
+  cd telemetry
+  ls

@@ -1,4 +1,0 @@
-Catatan pengamatan:
-Petunjuk 2:
-Lanjutkan ke folder bernama telemetry.
-Di sana kamu akan menemukan petunjuk yang lebih spesifik.

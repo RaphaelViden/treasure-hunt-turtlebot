@@ -1,0 +1,57 @@
+HASIL SIMULASI - URUTAN BENAR
+=============================
+perintah: python3 jalankan_pola.py RIMBA OMBAK KILAT SENJA GUNTUR --simulasi
+
+
+=== POLA YANG KAMU SUSUN ===
+  1. RIMBA    [garis dasar]  kata: RODA
+  2. OMBAK    [sisi kanan]  kata: BERPUTAR
+  3. KILAT    [sisi miring kanan]  kata: POLA
+  4. SENJA    [sisi miring kiri]  kata: RUMAH
+  5. GUNTUR   [sisi kiri]  kata: TERBENTUK
+
+  Kalimat kunci dari urutanmu: "RODA BERPUTAR POLA RUMAH TERBENTUK"
+  STATUS: URUTAN BENAR. Pola akan terbentuk sempurna!
+
+--- RENCANA GERAK (mode simulasi, robot tidak bergerak) ---
+  1. RIMBA    maju 1.20 m (5.79 putaran roda), putar 90 derajat ke kiri
+  2. OMBAK    maju 0.80 m (3.86 putaran roda), putar 45 derajat ke kiri
+  3. KILAT    maju 0.85 m (4.10 putaran roda), putar 90 derajat ke kiri
+  4. SENJA    maju 0.85 m (4.10 putaran roda), putar 45 derajat ke kiri
+  5. GUNTUR   maju 0.80 m (3.86 putaran roda), putar 90 derajat ke kiri
+
+  Total jarak  : 4.50 m (21.7 putaran roda)
+  Total putaran: 360 derajat
+  Jarak titik akhir ke titik awal: 0.2 cm
+
+--- JEJAK YANG AKAN TERBENTUK ---
++----------------------------------------------------------------+
+|                               3*                               |
+|                             **  **                             |
+|                          ***     ***                           |
+|                         **          **                         |
+|                       **              **                       |
+|                    ***                 ***                     |
+|                   **                      **                   |
+|                 **                          **                 |
+|               **                              **               |
+|            ***                                 ***             |
+|           **                                      **           |
+|          4                                          2          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          *                                          *          |
+|          5******************************************1          |
++----------------------------------------------------------------+
+
+  Gambar jejak disimpan di: jejak_benar.svg

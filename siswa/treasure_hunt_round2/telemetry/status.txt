@@ -1,0 +1,18 @@
+STATUS TELEMETRI
+================
+Petunjuk 3.
+
+Sinyal komunikasi normal. Dan ya - ada PECAHAN POLA di folder telemetry ini.
+Lihat isi folder dengan ls.
+
+  >> Catat namanya sebagai pecahan berikutnya. <<
+
+Setengah jalan sudah lewat. Dua pecahan lagi.
+
+Petunjuk selanjutnya ada di folder diagnostics. Hati-hati: folder itu
+punya lebih dari satu subfolder, dan hanya salah satunya berisi pecahan.
+Jangan menebak dari namanya, baca isinya.
+
+  cd ..
+  cd diagnostics
+  ls

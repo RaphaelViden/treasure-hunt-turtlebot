@@ -1,0 +1,10 @@
+INDEKS DOKUMENTASI
+==================
+Folder ini berisi panduan dan prosedur, bukan pecahan.
+
+Yang kalian cari ada di dalam subfolder yang berisi langkah-langkah kerja
+(prosedur). Masuk ke sana.
+
+  ls
+  cd procedures
+  ls
