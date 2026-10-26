@@ -1,0 +1,4 @@
+Petunjuk 2:
+Kamu sudah berada di jalur yang benar.
+Sekarang periksa bagian maintenance untuk mendapatkan petunjuk berikutnya.
+Gunakan cd untuk berpindah folder dan ls untuk melihat isinya.

@@ -1,0 +1,3 @@
+Checklist:
+Periksa sambungan, baterai, dan kondisi robot sebelum menjalankan misi.
+File ini hanya berisi checklist, bukan petunjuk harta karun.

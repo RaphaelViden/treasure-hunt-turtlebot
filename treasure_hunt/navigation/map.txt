@@ -1,0 +1,3 @@
+Peta singkat:
+Tujuan tidak berada langsung di folder ini.
+Lihat bagian checkpoints untuk petunjuk berikutnya.

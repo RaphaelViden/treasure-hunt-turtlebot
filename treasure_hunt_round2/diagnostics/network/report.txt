@@ -1,0 +1,5 @@
+Laporan jaringan:
+Koneksi lokal tersedia.
+Petunjuk 4:
+Kembali ke direktori utama treasure_hunt_round2.
+Periksa folder bernama documentation, lalu baca petunjuknya.

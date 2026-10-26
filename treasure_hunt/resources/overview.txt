@@ -1,0 +1,3 @@
+Ringkasan sumber daya:
+Folder ini menyimpan beberapa berkas umum.
+Untuk melanjutkan, periksa subfolder reference.

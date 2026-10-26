@@ -1,0 +1,3 @@
+Panduan prosedur:
+Kamu hampir selesai.
+Periksa subfolder bernama completion untuk menemukan file misi terakhir.

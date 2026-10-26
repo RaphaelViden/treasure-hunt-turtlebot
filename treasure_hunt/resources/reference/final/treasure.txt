@@ -1,0 +1,10 @@
+SELAMAT! KAMU MENEMUKAN TREASURE!
+
+Kode misi: TURTLE-03
+
+Tugas tim:
+1. Tunjukkan file ini kepada instruktur.
+2. Jelaskan fungsi singkat dari perintah pwd, ls, cd, dan cat.
+3. Bersiaplah untuk menggunakan terminal dalam mengendalikan TurtleBot3!
+
+Pesan berikutnya: sekarang waktunya membuat robot bergerak.

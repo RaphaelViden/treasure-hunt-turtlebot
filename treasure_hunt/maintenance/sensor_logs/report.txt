@@ -1,0 +1,5 @@
+Laporan sensor:
+Petunjuk 3:
+Tujuan akhir berada di folder lain yang namanya cukup umum.
+Kembali ke direktori treasure_hunt, lalu periksa folder yang belum kamu jelajahi.
+Baca isi foldernya sebelum melanjutkan.

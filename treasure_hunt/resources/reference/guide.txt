@@ -1,0 +1,4 @@
+Panduan:
+Kamu hampir sampai.
+Tujuan ada di subfolder final dari direktori ini.
+Masuk ke sana dan lihat isi foldernya.
