@@ -1,11 +1,5 @@
 LOG HARI PERTAMA
 ================
-09:12  robot dinyalakan, kalibrasi IMU
-09:30  uji maju 1 meter, hasil meleset 3 cm
-10:05  uji putar 90 derajat, hasil cukup akurat
-10:40  baterai diganti
-
 Tidak ada pecahan pola yang tersimpan di arsip ini.
 Kembali ke folder observations dan baca petunjuk yang benar.
 
-  cd ..

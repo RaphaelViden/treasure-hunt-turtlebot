@@ -7,8 +7,6 @@ Di folder ini juga tersimpan PECAHAN POLA YANG TERAKHIR.
 Jalankan ls, lalu catat namanya sebagai pecahan kelima.
 
 
-SEKARANG BAGIAN SERUNYA
------------------------
 Lima pecahan sudah lengkap. Susun sesuai urutan penemuan kalian,
 lalu uji dulu dengan mode simulasi dari folder utama misi:
 
@@ -49,11 +47,3 @@ LALU JALANKAN DI ROBOT SUNGGUHAN
 5. Tunjukkan hasil rekaman jejak kepada instruktur.
 
 
-TUGAS LAPORAN TIM
------------------
-1. Tulis urutan kelima pecahan dan kalimat kuncinya.
-2. Jelaskan fungsi pwd, ls, cd, dan cat - masing-masing satu kalimat.
-3. Jelaskan kenapa pola tidak terbentuk kalau urutannya ditukar,
-   padahal total jarak dan total putarannya tetap sama.
-4. Buka salah satu file pecahan dengan cat. Tunjukkan di baris mana
-   jarak maju dan sudut putarnya ditulis.

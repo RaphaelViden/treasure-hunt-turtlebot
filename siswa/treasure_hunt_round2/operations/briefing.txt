@@ -5,7 +5,7 @@ Petunjuk 1.
 Selamat, kalian sampai di ruang operasi. Di folder ini tersimpan
 PECAHAN POLA yang pertama. Jalankan ls di folder operations untuk melihatnya.
 
-  >> Catat nama file pecahan itu di lembar jawab sebagai pecahan pertama. <<
+  >> Catat nama file pecahan itu sebagai pecahan pertama. <<
 
 Ingat: pecahan tidak bernomor. Urutan penemuan = urutan yang benar.
 Kalau kalian salah mencatat urutan, pola tidak akan terbentuk nanti.
@@ -13,6 +13,3 @@ Kalau kalian salah mencatat urutan, pola tidak akan terbentuk nanti.
 Tujuan akhir tidak ada di folder operations.
 Petunjuk berikutnya: periksa folder bernama fieldwork.
 
-  cd ..
-  cd fieldwork
-  ls

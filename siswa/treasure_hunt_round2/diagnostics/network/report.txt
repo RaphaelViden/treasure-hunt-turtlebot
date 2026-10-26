@@ -12,6 +12,3 @@ harta karunnya.
 
 Kembali ke folder utama misi, lalu periksa folder bernama documentation.
 
-  cd ../..
-  cd documentation
-  ls

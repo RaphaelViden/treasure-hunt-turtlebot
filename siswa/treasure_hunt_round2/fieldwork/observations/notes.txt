@@ -13,6 +13,3 @@ Boleh dilihat, tapi jangan terkecoh.
 Petunjuk selanjutnya ada di folder bernama telemetry, satu tingkat
 di bawah folder utama misi.
 
-  cd ../..
-  cd telemetry
-  ls

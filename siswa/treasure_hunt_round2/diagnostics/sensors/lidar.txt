@@ -3,7 +3,3 @@ LAPORAN LIDAR
 Sensor LDS-01 siap digunakan. Jangkauan 0.12 - 3.5 meter.
 
 Folder sensors tidak menyimpan pecahan pola.
-Naik satu tingkat, lalu coba subfolder diagnostics yang lain.
-
-  cd ..
-  ls

@@ -1,10 +1,15 @@
-CATATAN LAPANGAN
-================
-Arah kalian sudah benar, tapi pecahan tidak diletakkan di folder ini.
+==FIELD WORK REPORT==
 
-Teknisi kami biasa menyimpan datanya di folder yang berhubungan dengan
-PENGAMATAN. Masuk ke sana, lalu baca catatannya.
+Date: Apr 23rd 2025
+Mission: package drop
+Flight time: 2 min 14 s
+Battery before flight: 16.3V
+Battery after flight: 15.7
+HDOP: 0.8
+satcount: 22
+EKF: Green
 
-  ls
-  cd observations
-  ls
+mission accomplishment: 40%
+
+any crashes: no
+
