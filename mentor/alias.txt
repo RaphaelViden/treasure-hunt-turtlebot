@@ -1,0 +1,9 @@
+# salin ke ~/.bashrc lalu source ~/.bashrc
+
+alias jejak='ros2 run trajectory_tools trajectory_recorder'
+
+alias rimba='python3 jalankan_pola.py RIMBA'
+alias ombak='python3 jalankan_pola.py OMBAK'
+alias kilat='python3 jalankan_pola.py KILAT'
+alias senja='python3 jalankan_pola.py SENJA'
+alias guntur='python3 jalankan_pola.py GUNTUR'
